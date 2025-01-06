@@ -1,6 +1,4 @@
-# Save the provided content as a markdown file
 
-content = """
 # توضیحات مربوط به نمودار ER باشگاه ورزشی
 
 ## موجودیت‌ها (Entities) و ویژگی‌ها (Attributes):
