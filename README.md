@@ -77,10 +77,3 @@ content = """
 
 این طراحی برای مدیریت اطلاعات مربوط به اعضا، مربیان، کلاس‌ها، تخصص‌ها، ثبت‌نام‌ها و پرداخت‌ها در یک باشگاه ورزشی کاربردی است.
 """
-
-# Save to file
-file_path = "/mnt/data/sports_club_er_readme.md"
-with open(file_path, "w", encoding="utf-8") as file:
-    file.write(content)
-
-file_path
